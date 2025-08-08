@@ -103,7 +103,7 @@ Always eager to learn new technologies and solve real-world problems.
     </td>
   </tr>
 <tr>
-    <td align="center" width="100%">
+    <td align="center" colspan="2">
       <a href="https://github.com/rahmandurjoy04/Recipe-book-Creating-New-Recipes" target="_blank">
         <img src="https://i.ibb.co.com/6RrnsKjJ/Screenshot-from-2025-08-08-18-38-40.png" width="100%" alt="Parcel Delivery System" />
         <br />
