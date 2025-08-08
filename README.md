@@ -39,10 +39,11 @@ Always eager to learn new technologies and solve real-world problems.
 
 ### Backend  
 <div align="center" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="60" alt="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
 </div>
+
 
 ### Others / Tools  
 <div align="center" style="margin-top: 10px;">
