@@ -18,7 +18,7 @@ I'm a Frontend Web Developer currently pursuing my undergraduate degree in Stati
 
 ## 🛠️ Tech Stack
 
-###Skills:
+### Skills:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="100" />
@@ -37,14 +37,24 @@ I'm a Frontend Web Developer currently pursuing my undergraduate degree in Stati
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rahmandurjoy04&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
-###
+
+<h3 align="center">📫 Connect with me</h3>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="160" height="40" alt="gitlab logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="160" height="40" alt="whatsapp logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="160" height="40" alt="gmail logo"  />
+  <a href="https://www.linkedin.com/in/durjoy4004/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="linkedin logo" />
+  </a>
+  <a href="https://gitlab.com/rahmandurjoy04" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="160" height="40" alt="gitlab logo" />
+  </a>
+  <a href="https://wa.me/+8801712755442" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="160" height="40" alt="whatsapp logo" />
+  </a>
+  <a href="mailto:naimur.durjoy.dev@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="160" height="40" alt="gmail logo" />
+  </a>
 </div>
+
 
 ###
 
@@ -53,8 +63,7 @@ I'm a Frontend Web Developer currently pursuing my undergraduate degree in Stati
  
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahmandurjoy04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/durjoy4004//)  
+ 
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmandurjoy04&show_icons=true)  
 
 
