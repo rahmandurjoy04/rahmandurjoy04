@@ -83,7 +83,7 @@ Always eager to learn new technologies and solve real-world problems.
 <!-- Featured Projects -->
 ## 📌 Featured Projects
 
-<table align="center">
+<table align="center" border="1">
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/rahmandurjoy04/PlateShare-Food-Management-Chain?tab=readme-ov-file" target="_blank">
