@@ -20,9 +20,9 @@ Always eager to learn new technologies and solve real-world problems.
 <!-- Current Activities -->
 ### 🚀 What I'm up to
 
-- 🔭 I’m currently working on this profile page and some personal projects  
+- 🔭 I’m currently working on some personal projects  
 - 🌱 I’m exploring **Next.js** for server-side rendering and static sites  
-- 💬 I’m building a **tourism website** as part of my learning journey  
+- 💬 I’m building a **Student's Result Publishing Website** as part of my learning journey  
 - 📱 Reach me on WhatsApp: [01712755442](https://wa.me/8801712755442)  
 
 ---
@@ -94,12 +94,12 @@ Always eager to learn new technologies and solve real-world problems.
       <p>A MERN stack food donation platform connecting restaurants and charities. Includes Stripe & Firebase Auth.</p>
     </td>
     <td align="center" width="50%">
-      <a href="https://github.com/rahmandurjoy04/result-management-system" target="_blank">
-        <img src="https://i.ibb.co/T2cpBd5/888.jpg" width="100%" alt="Result Management System" />
+      <a href="https://github.com/rahmandurjoy04/KnowHive-The-Ultimate-Knowlwdge-Sharing-Platform" target="_blank">
+        <img src="https://i.ibb.co.com/RkkYr8gf/knowhive-home.png" width="100%" alt="Knowledge Sharing Platorm" />
         <br />
-        <strong>🎓 Result Management System</strong>
+        <strong>🎓 KnowHive </strong>
       </a>
-      <p>A web app for uploading and managing student results from Excel to MongoDB with proper GPA/CGPA parsing.</p>
+      <p>KnowHive is your digital thinking ground — where curiosity thrives, knowledge flows, and ideas spark meaningful conversation..</p>
     </td>
   </tr>
 <!--   <tr>
