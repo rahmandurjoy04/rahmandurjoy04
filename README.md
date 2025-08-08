@@ -102,16 +102,18 @@ Always eager to learn new technologies and solve real-world problems.
       <p>KnowHive is your digital thinking ground — where curiosity thrives, knowledge flows, and ideas spark meaningful conversation..</p>
     </td>
   </tr>
-<!--   <tr>
-    <td align="center" width="50%">
-      <a href="https://github.com/rahmandurjoy04/parcel-delivery-system" target="_blank">
-        <img src="https://i.ibb.co/ZVW0cBr/parcel.jpg" width="100%" alt="Parcel Delivery System" />
+<tr>
+    <td align="center" width="100%">
+      <a href="https://github.com/rahmandurjoy04/Recipe-book-Creating-New-Recipes" target="_blank">
+        <img src="https://i.ibb.co.com/6RrnsKjJ/Screenshot-from-2025-08-08-18-38-40.png" width="100%" alt="Parcel Delivery System" />
         <br />
-        <strong>📦 Parcel Delivery System</strong>
+        <strong>🍲 Recipe Book App</strong>
       </a>
-      <p>Role-based delivery system for users, riders, and admins. Built with Express, MongoDB, and Firebase Admin.</p>
+      <p>Recipe Book App — a dynamic platform where food lovers can discover, share, and manage delicious recipes with ease.  
+Join a vibrant culinary community and showcase your own creations effortlessly.</p>
     </td>
-    <td align="center" width="50%">
+   <!--
+  <td align="center" width="50%">
       <a href="https://github.com/rahmandurjoy04/react-auth-dashboard" target="_blank">
         <img src="https://i.ibb.co/SvKQdxF/dashboard.jpg" width="100%" alt="React Auth Dashboard" />
         <br />
@@ -119,7 +121,8 @@ Always eager to learn new technologies and solve real-world problems.
       </a>
       <p>Frontend dashboard with protected routes, authentication, and role-based UI using React and Firebase.</p>
     </td>
-  </tr> -->
+  -->
+  </tr> 
 </table>
 
 ---
