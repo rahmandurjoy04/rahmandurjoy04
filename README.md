@@ -39,11 +39,14 @@ Always eager to learn new technologies and solve real-world problems.
 
 ### Backend  
 <div align="center" style="margin-top: 10px;">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="Node.js" />
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60" />
+  </a>
   <img width="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="60" alt="MongoDB" />
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60" />
+  </a>
 </div>
-
 
 ### Others / Tools  
 <div align="center" style="margin-top: 10px;">
@@ -53,8 +56,7 @@ Always eager to learn new technologies and solve real-world problems.
   <img width="40" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="Git" />
   <img width="40" />
-  <!-- Use white GitHub logo for dark bg -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-white.svg" height="60" alt="GitHub" />
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height="60" alt="GitHub" />
 </div>
 
 
