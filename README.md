@@ -1,6 +1,6 @@
 <!-- Banner Image -->
 <div align="center">
-  <img src="https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png" alt="banner" />
+  <img src="https://github.com/rahmandurjoy04/rahmandurjoy04/blob/main/Naimur%20Rahman%20Durjoy.jpg?raw=true" alt="banner" />
 </div>
 
 ---
