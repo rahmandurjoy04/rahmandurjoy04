@@ -1,9 +1,24 @@
 <div align="center">
+  ![Frontend Web Developer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 <!--   <img height="200" src="https://i.imgflip.com/65efzo.gif"  /> -->
 </div>
 
-###
+### Hi there 👋, I'm Durjoy
+#### Frontend Web Developer
 
+
+I'm a Frontend Web Developer currently pursuing my undergraduate degree in Statistics at Jagannath University. While frontend development is my primary focus—especially building dynamic interfaces with React and JavaScript—I'm equally passionate about Backend Development. I enjoy exploring full-stack technologies and have working knowledge of Next.js and Python, allowing me to build more complete and scalable applications. I'm always eager to learn new tools, solve real-world problems, and grow as a developer.
+
+
+
+- 🔭 I’m currently working on this page. 
+- 🌱 I’m currently learning Next Js and Backend Development 
+- 💬 Ask me about React, Javascript, Python 
+- 📫 How to reach me: 01712755442(Whatsapp)
+
+## 🛠️ Tech Stack
+
+###Skills:
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="60" alt="react logo"  />
   <img width="100" />
@@ -32,3 +47,14 @@
 </div>
 
 ###
+
+
+<!--comment-->
+ 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/rahmandurjoy04)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/durjoy4004//)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rahmandurjoy04&show_icons=true)  
+
+
