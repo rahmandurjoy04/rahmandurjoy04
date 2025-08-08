@@ -86,8 +86,8 @@ Always eager to learn new technologies and solve real-world problems.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rahmandurjoy04/plateshare" target="_blank">
-        <img src="https://i.ibb.co/vV8y9SY/food-donation.jpg" width="100%" alt="PlateShare" />
+      <a href="[https://github.com/rahmandurjoy04/plateshare](https://github.com/rahmandurjoy04/PlateShare-Food-Management-Chain?tab=readme-ov-file)" target="_blank">
+        <img src="h[ttps://i.ibb.co/vV8y9SY/food-donation.jpg](https://i.ibb.co.com/bg3QdJfP/ps-home.png)" width="100%" alt="PlateShare" />
         <br />
         <strong>🍽️ PlateShare</strong>
       </a>
