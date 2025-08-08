@@ -86,14 +86,6 @@ Always eager to learn new technologies and solve real-world problems.
 <table align="center">
   <tr>
     <td align="center" width="50%">
-      <a href="https://github.com/rahmandurjoy04/result-management-system" target="_blank">
-        <img src="https://i.ibb.co/T2cpBd5/888.jpg" width="100%" alt="Result Management System" />
-        <br />
-        <strong>🎓 Result Management System</strong>
-      </a>
-      <p>A web app for uploading and managing student results from Excel to MongoDB with proper GPA/CGPA parsing.</p>
-    </td>
-    <td align="center" width="50%">
       <a href="https://github.com/rahmandurjoy04/plateshare" target="_blank">
         <img src="https://i.ibb.co/vV8y9SY/food-donation.jpg" width="100%" alt="PlateShare" />
         <br />
@@ -101,8 +93,16 @@ Always eager to learn new technologies and solve real-world problems.
       </a>
       <p>A MERN stack food donation platform connecting restaurants and charities. Includes Stripe & Firebase Auth.</p>
     </td>
+    <td align="center" width="50%">
+      <a href="https://github.com/rahmandurjoy04/result-management-system" target="_blank">
+        <img src="https://i.ibb.co/T2cpBd5/888.jpg" width="100%" alt="Result Management System" />
+        <br />
+        <strong>🎓 Result Management System</strong>
+      </a>
+      <p>A web app for uploading and managing student results from Excel to MongoDB with proper GPA/CGPA parsing.</p>
+    </td>
   </tr>
-  <tr>
+<!--   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/rahmandurjoy04/parcel-delivery-system" target="_blank">
         <img src="https://i.ibb.co/ZVW0cBr/parcel.jpg" width="100%" alt="Parcel Delivery System" />
@@ -119,7 +119,7 @@ Always eager to learn new technologies and solve real-world problems.
       </a>
       <p>Frontend dashboard with protected routes, authentication, and role-based UI using React and Firebase.</p>
     </td>
-  </tr>
+  </tr> -->
 </table>
 
 ---
@@ -130,9 +130,6 @@ Always eager to learn new technologies and solve real-world problems.
 <div align="center">
   <a href="https://www.linkedin.com/in/durjoy4004/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="160" height="40" alt="LinkedIn" />
-  </a>
-  <a href="https://gitlab.com/rahmandurjoy04" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gitlab/default.svg" width="160" height="40" alt="GitLab" />
   </a>
   <a href="https://wa.me/8801712755442" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="160" height="40" alt="WhatsApp" />
