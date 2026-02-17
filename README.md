@@ -105,7 +105,7 @@ Always eager to learn new technologies and solve real-world problems.
 <tr>
     <td align="center" colspan="2">
       <a href="https://jnurhss.org/" target="_blank">
-        <img src="https://i.ibb.co.com/vxSp8P5f/Jn-URHSS.png" width="100%" alt="JnURHSS" />
+        <img src="https://i.ibb.co/vxSp8P5f/Jn-URHSS.png" width="100%" alt="JnURHSS" />
         <br />
         <strong>JnURHSS</strong>
       </a>
