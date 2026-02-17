@@ -110,7 +110,6 @@ Always eager to learn new technologies and solve real-world problems.
         <strong>JnURHSS</strong>
       </a>
       <p><strong>JnURHSS Website</strong> — A modern, responsive official website developed for Jagannath University Research and Higher Study Society (JnURHSS). The platform showcases organizational information, events, research initiatives, team members, and announcements with a clean UI and structured navigation. Designed to enhance digital presence and improve accessibility for students seeking research and higher study opportunities.</p>
-
     </td>
   </tr> 
 </table>
