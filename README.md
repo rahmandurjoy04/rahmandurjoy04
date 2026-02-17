@@ -1,4 +1,4 @@
-<!-- Banner Image -->
+<img width="1901" height="888" alt="image" src="https://github.com/user-attachments/assets/2a9e8340-c42a-4c6e-9008-5b919ce6f156" /><!-- Banner Image -->
 <div align="center">
   <img src="https://github.com/rahmandurjoy04/rahmandurjoy04/blob/main/Naimur%20Rahman%20Durjoy.jpg?raw=true" alt="banner" />
 </div>
@@ -104,24 +104,14 @@ Always eager to learn new technologies and solve real-world problems.
   </tr>
 <tr>
     <td align="center" colspan="2">
-      <a href="https://github.com/rahmandurjoy04/Recipe-book-Creating-New-Recipes" target="_blank">
-        <img src="https://i.ibb.co.com/6RrnsKjJ/Screenshot-from-2025-08-08-18-38-40.png" width="100%" alt="Parcel Delivery System" />
+      <a href="https://jnurhss.org/" target="_blank">
+        <img src="https://i.ibb.co.com/vxSp8P5f/Jn-URHSS.png" width="100%" alt="JnURHSS" />
         <br />
-        <strong>🍲 Recipe Book App</strong>
+        <strong>JnURHSS</strong>
       </a>
-      <p>Recipe Book App — a dynamic platform where food lovers can discover, share, and manage delicious recipes with ease.  
-Join a vibrant culinary community and showcase your own creations effortlessly.</p>
+      <p><strong>JnURHSS Website</strong> — A modern, responsive official website developed for Jagannath University Research and Higher Study Society (JnURHSS). The platform showcases organizational information, events, research initiatives, team members, and announcements with a clean UI and structured navigation. Designed to enhance digital presence and improve accessibility for students seeking research and higher study opportunities.</p>
+
     </td>
-   <!--
-  <td align="center" width="50%">
-      <a href="https://github.com/rahmandurjoy04/react-auth-dashboard" target="_blank">
-        <img src="https://i.ibb.co/SvKQdxF/dashboard.jpg" width="100%" alt="React Auth Dashboard" />
-        <br />
-        <strong>🛡️ React Auth Dashboard</strong>
-      </a>
-      <p>Frontend dashboard with protected routes, authentication, and role-based UI using React and Firebase.</p>
-    </td>
-  -->
   </tr> 
 </table>
 
